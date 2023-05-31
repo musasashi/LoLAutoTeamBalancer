@@ -8,8 +8,8 @@
 このソフトウェアを実行するにはpython実行環境が必要です。
 ライブラリはpython標準ライブラリの他にはstreamlitのみを使っています。
 
-https://www.python.org/downloads/
-上のwebサイトからstableバージョンのpython（今だと3.10.11？）のインストーラーをダウンロードして実行してください。
+https://www.python.org/downloads/release/python-31011/
+上のwebサイトからWindows installer (64-bit)をダウンロードしてインストールを実行してください。
 
 またインストール途中でpythonをpathに追加するかどうか問われるので追加するようチェックボックスを入れるのがおススメです。
 
