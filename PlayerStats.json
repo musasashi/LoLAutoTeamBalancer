@@ -1,0 +1,95 @@
+{
+    "player_stats": {
+        "k4sen": {
+            "adc": "S2",
+            "jug": "G3",
+            "mid": "G2",
+            "sup": "G2",
+            "top": "S1"
+        },
+        "kuzuha": {
+            "adc": "G4",
+            "jug": "G1",
+            "mid": "P2",
+            "sup": "S1",
+            "top": "P3"
+        },
+        "leon": {
+            "adc": "I4",
+            "jug": "B3",
+            "mid": "I3",
+            "sup": "I2",
+            "top": "I1"
+        },
+        "mother": {
+            "adc": "B4",
+            "jug": "B1",
+            "mid": "B4",
+            "sup": "B2",
+            "top": "B1"
+        },
+        "obo": {
+            "adc": "B4",
+            "jug": "B4",
+            "mid": "B1",
+            "sup": "B3",
+            "top": "B1"
+        },
+        "raizin": {
+            "adc": "D1",
+            "jug": "D3",
+            "mid": "D1",
+            "sup": "M",
+            "top": "C"
+        },
+        "shaka": {
+            "adc": "S3",
+            "jug": "B2",
+            "mid": "B1",
+            "sup": "S3",
+            "top": "B1"
+        },
+        "sharuru": {
+            "adc": "M",
+            "jug": "C",
+            "mid": "D1",
+            "sup": "C",
+            "top": "D2"
+        },
+        "sutannmi": {
+            "adc": "P3",
+            "jug": "P4",
+            "mid": "P1",
+            "sup": "P3",
+            "top": "P4"
+        },
+        "tanukininja": {
+            "adc": "D1",
+            "jug": "M",
+            "mid": "C",
+            "sup": "C",
+            "top": "C"
+        },
+        "ug": {
+            "adc": "P4",
+            "jug": "P1",
+            "mid": "D3",
+            "sup": "P2",
+            "top": "D3"
+        },
+        "uruca": {
+            "adc": "G1",
+            "jug": "P4",
+            "mid": "P3",
+            "sup": "P3",
+            "top": "P4"
+        },
+        "zerost": {
+            "adc": "M",
+            "jug": "D4",
+            "mid": "D4",
+            "sup": "D3",
+            "top": "D4"
+        }
+    }
+}
